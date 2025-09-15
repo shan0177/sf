@@ -48,7 +48,7 @@ defaults:
 
 env:
   RDP_USER: Bullettemporary
-  RDP_PASS: shan0103
+  RDP_PASS: shan0103@123
   TS_HOSTNAME: bullet
 
 jobs:
